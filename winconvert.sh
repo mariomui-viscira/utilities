@@ -41,4 +41,4 @@ for i in $(ls ${inputFolder});
   done;
   cmd="${cmd} ${inputFolder}.ico"
 echo $cmd;
-eval $cmd;
+# eval $cmd;
